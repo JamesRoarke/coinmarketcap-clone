@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import Rate from './cmc-table/rate'
+import Rate from './cmc-table/Rate'
 import btc from '../assets/btc.png'
 import eth from '../assets/eth.png'
 import usdc from '../assets/usdc.png'
